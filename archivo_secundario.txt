@@ -3,3 +3,5 @@ esta es mi voz en la television
 probando lo de arquitectura en git
 
 no me funco
+
+ahora me parece que si
